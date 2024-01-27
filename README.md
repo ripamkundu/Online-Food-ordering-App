@@ -2,8 +2,6 @@
 
 An online food ordering system developed using Angular 10 and Material UI.
   
-Live Demo: http://order-my-food-online.s3-website-us-east-1.amazonaws.com/
-
 ## Screenshots
 
 - **Home Page having list of hotels**
